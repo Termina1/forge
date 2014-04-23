@@ -10,7 +10,7 @@ gem "rubyzip", "~> 0.9.4"
 gem "json", "~> 1.8.0"
 gem "sass", "~> 3.3.5"
 gem "sprockets-sass", "~> 0.3.0"
-gem "compass", "~> 0.12.2"
+gem "compass", "~> 0.12.6"
 gem 'rack', '~> 1.3.5'
 gem "less", "~> 2.2.2"
 gem "rb-fsevent", ">= 0.9.3"
